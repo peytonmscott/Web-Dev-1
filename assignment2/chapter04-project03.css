@@ -1,0 +1,51 @@
+
+  html {
+    background-image: url(images/art-background4.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+header {
+    color:white;
+    background-color: rgba(33, 33, 33, 0.5);
+    margin: 30px;
+    box-shadow: 20px 20px 10px rgba(33, 33, 33, 0.5);
+    max-width: 500px;
+    margin: auto;
+}
+
+main {
+    background-color: rgba(224,224,224,0.5);
+    margin: 30px;
+    box-shadow: 20px 20px 10px rgba(33, 33, 33, 0.5);
+    max-width: 500px;
+    margin: auto;
+}
+
+#lazy {
+    background-color: rgba(255,255,255,0.5);
+}
+
+#timeline {
+    color: white;
+    background-color: rgba(66,66,66,0.5);
+    max-width: 250px;
+}
+
+sup {
+    color: red;
+}
+
+footer {
+    color: white;
+    background-color: rgba(33, 33, 33, 0.5);
+    margin: 30px;
+    box-shadow: 20px 20px 10px rgba(33, 33, 33, 0.5);
+    max-width: 500px;
+    margin: auto;
+}
+
+#footnote {
+    color: red;
+
+}
